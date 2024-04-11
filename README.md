@@ -67,4 +67,4 @@ Below pie chart, shows the distribution of the sentiment of tweets on some unsee
 ![Negative polarity tweets trends in tweets](images/hashtag_neg_sentiment.png "Negative polarity tweets trends in tweets")
 
 <br>
-The relevant text are filtered that are viewed and analysed what are the reasons, patterns and knowledge during the analysis of the text.
+The relevant text are filtered that are viewed and analysed what are the reasons, patterns and knowledge during the analysis of the text. This can be found in the jupyter notebooks doing analysis tasks and all are accumulated in the report file "Report.pdf".
